@@ -1,5 +1,5 @@
 [versions]
-androidGradlePlugin = "8.6.1"
+androidGradlePlugin = "8.8.1"
 barista = "4.3.0"
 countlySdk = "24.7.4"
 desugar_jdk_libs_nio = "2.1.4"
